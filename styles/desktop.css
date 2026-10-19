@@ -18,9 +18,10 @@ header h1 a:hover {
 }
 #logo {
   padding: 10px;
+
 }
 nav li a:hover {
-  color: #7e8aa2;
+  color: #96dafa;
 }
 nav ul {
   padding: 10px;

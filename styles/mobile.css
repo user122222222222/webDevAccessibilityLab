@@ -18,6 +18,10 @@ footer {
   text-align: center;
 }
 
+.logo-link {
+    color: #fff;
+}
+
 header {
   background-color: #263248;
 }
@@ -60,7 +64,9 @@ section img {
 }
 
 input[type="text"],
-input[type="email"] {
+input[type="email"],
+input[type="tel"], 
+input[type="message"] {
   padding: 5px;
   font-size: 1.2rem;
 }
@@ -71,4 +77,8 @@ footer {
   font-size: 0.8em;
   text-align: center;
   font-style: italic;
+}
+
+.form-element {
+  padding: 10px;
 }
